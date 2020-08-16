@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Sim_Num\bin\Debug\Sim_Num.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Sim_Num\bin\Debug\Sim_Num.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Sim_Num\bin\Debug\Sim_Num.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Sim_Num\obj\Debug\Sim_Num.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Sim_Num\obj\Debug\Sim_Num.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Sim_Num\obj\Debug\Sim_Num.pdb

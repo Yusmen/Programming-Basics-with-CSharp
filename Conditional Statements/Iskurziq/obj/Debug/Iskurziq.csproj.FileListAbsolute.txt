@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\bin\Debug\Iskurziq.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\bin\Debug\Iskurziq.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\bin\Debug\Iskurziq.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\obj\Debug\Iskurziq.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\obj\Debug\Iskurziq.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\obj\Debug\Iskurziq.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Iskurziq\obj\Debug\Iskurziq.pdb

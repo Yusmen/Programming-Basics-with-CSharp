@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Area\bin\Debug\Area.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Area\bin\Debug\Area.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Area\bin\Debug\Area.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Area\obj\Debug\Area.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Area\obj\Debug\Area.pdb

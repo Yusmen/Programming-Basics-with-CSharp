@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\bin\Debug\evenodd.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\bin\Debug\evenodd.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\bin\Debug\evenodd.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\obj\Debug\evenodd.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\obj\Debug\evenodd.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\obj\Debug\evenodd.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\evenodd\obj\Debug\evenodd.pdb

@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\680\bin\Debug\680.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\680\bin\Debug\680.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\680\bin\Debug\680.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\680\obj\Debug\680.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\680\obj\Debug\680.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\680\obj\Debug\680.pdb

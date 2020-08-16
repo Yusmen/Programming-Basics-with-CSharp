@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\bin\Debug\Similar_words.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\bin\Debug\Similar_words.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\bin\Debug\Similar_words.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\obj\Debug\Similar_words.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\obj\Debug\Similar_words.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\obj\Debug\Similar_words.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\Similar_words\obj\Debug\Similar_words.pdb

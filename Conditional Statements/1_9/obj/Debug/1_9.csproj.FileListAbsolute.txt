@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Conditional Statements\1_9\bin\Debug\1_9.exe.config
+C:\Users\usmenzabanov\source\repos\Conditional Statements\1_9\bin\Debug\1_9.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\1_9\bin\Debug\1_9.pdb
+C:\Users\usmenzabanov\source\repos\Conditional Statements\1_9\obj\Debug\1_9.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditional Statements\1_9\obj\Debug\1_9.exe
+C:\Users\usmenzabanov\source\repos\Conditional Statements\1_9\obj\Debug\1_9.pdb
