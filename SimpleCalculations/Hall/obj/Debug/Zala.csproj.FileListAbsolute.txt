@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\bin\Debug\Zala.exe.config
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\bin\Debug\Zala.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\bin\Debug\Zala.pdb
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\obj\Debug\Zala.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\obj\Debug\Zala.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\obj\Debug\Zala.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Zala\obj\Debug\Zala.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\obj\Debug\Alcohol.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\bin\Debug\Alcohol.exe.config
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\bin\Debug\Alcohol.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\bin\Debug\Alcohol.pdb
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\obj\Debug\Alcohol.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\obj\Debug\Alcohol.pdb
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Alcohol\obj\Debug\Alcohol.csprojAssemblyReference.cache

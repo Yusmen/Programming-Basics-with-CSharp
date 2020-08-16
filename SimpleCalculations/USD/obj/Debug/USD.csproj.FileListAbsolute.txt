@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\bin\Debug\USD.exe.config
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\bin\Debug\USD.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\bin\Debug\USD.pdb
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\obj\Debug\USD.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\obj\Debug\USD.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\obj\Debug\USD.pdb
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\USD\obj\Debug\USD.csprojAssemblyReference.cache

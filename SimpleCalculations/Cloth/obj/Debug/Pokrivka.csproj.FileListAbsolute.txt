@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\bin\Debug\Pokrivka.exe.config
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\bin\Debug\Pokrivka.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\bin\Debug\Pokrivka.pdb
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\obj\Debug\Pokrivka.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\obj\Debug\Pokrivka.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\obj\Debug\Pokrivka.exe
+C:\Users\usmenzabanov\source\repos\Prosti_presmqtaniq\Pokrivka\obj\Debug\Pokrivka.pdb
