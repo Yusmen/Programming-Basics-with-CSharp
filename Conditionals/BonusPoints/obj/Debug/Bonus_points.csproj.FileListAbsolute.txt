@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\obj\Debug\Bonus_points.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\obj\Debug\Bonus_points.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\bin\Debug\Bonus_points.exe.config
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\bin\Debug\Bonus_points.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\bin\Debug\Bonus_points.pdb
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\obj\Debug\Bonus_points.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Bonus_points\obj\Debug\Bonus_points.pdb

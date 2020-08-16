@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\bin\Debug\Sum_sec.exe.config
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\bin\Debug\Sum_sec.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\bin\Debug\Sum_sec.pdb
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\obj\Debug\Sum_sec.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\obj\Debug\Sum_sec.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\obj\Debug\Sum_sec.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Sum_sec\obj\Debug\Sum_sec.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\obj\Debug\Rekord.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\obj\Debug\Rekord.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\bin\Debug\Rekord.exe.config
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\bin\Debug\Rekord.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\bin\Debug\Rekord.pdb
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\obj\Debug\Rekord.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Rekord\obj\Debug\Rekord.pdb

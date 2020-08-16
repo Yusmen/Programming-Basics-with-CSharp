@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\obj\Debug\Trima_bratq.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\obj\Debug\Trima_bratq.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\bin\Debug\Trima_bratq.exe.config
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\bin\Debug\Trima_bratq.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\bin\Debug\Trima_bratq.pdb
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\obj\Debug\Trima_bratq.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Trima_bratq\obj\Debug\Trima_bratq.pdb

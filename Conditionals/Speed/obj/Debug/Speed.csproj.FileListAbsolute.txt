@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Conditionals\Speed\bin\Debug\Speed.exe.config
+C:\Users\usmenzabanov\source\repos\Conditionals\Speed\bin\Debug\Speed.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Speed\bin\Debug\Speed.pdb
+C:\Users\usmenzabanov\source\repos\Conditionals\Speed\obj\Debug\Speed.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Conditionals\Speed\obj\Debug\Speed.exe
+C:\Users\usmenzabanov\source\repos\Conditionals\Speed\obj\Debug\Speed.pdb
