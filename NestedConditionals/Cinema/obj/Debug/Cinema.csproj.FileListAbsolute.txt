@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Cinema\bin\Debug\Cinema.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Cinema\bin\Debug\Cinema.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Cinema\obj\Debug\Cinema.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Cinema\obj\Debug\Cinema.pdb

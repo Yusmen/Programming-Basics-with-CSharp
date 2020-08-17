@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\obj\Debug\Journey.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\obj\Debug\Journey.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\bin\Debug\Journey.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\bin\Debug\Journey.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\bin\Debug\Journey.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\obj\Debug\Journey.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Journey\obj\Debug\Journey.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\bin\Debug\New_Home.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\bin\Debug\New_Home.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\bin\Debug\New_Home.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\obj\Debug\New_Home.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\obj\Debug\New_Home.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\obj\Debug\New_Home.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\New_Home\obj\Debug\New_Home.pdb

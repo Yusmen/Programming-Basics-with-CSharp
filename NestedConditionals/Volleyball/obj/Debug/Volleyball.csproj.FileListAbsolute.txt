@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\bin\Debug\Volleyball.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\bin\Debug\Volleyball.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\bin\Debug\Volleyball.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\obj\Debug\Volleyball.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\obj\Debug\Volleyball.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Volleyball\obj\Debug\Volleyball.pdb

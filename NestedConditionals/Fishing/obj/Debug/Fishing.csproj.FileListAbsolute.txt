@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\bin\Debug\Fishing.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\bin\Debug\Fishing.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\bin\Debug\Fishing.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\obj\Debug\Fishing.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\obj\Debug\Fishing.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\obj\Debug\Fishing.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Fishing\obj\Debug\Fishing.pdb

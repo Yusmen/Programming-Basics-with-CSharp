@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\bin\Debug\Point.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\bin\Debug\Point.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\bin\Debug\Point.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\obj\Debug\Point.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\obj\Debug\Point.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\obj\Debug\Point.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Point\obj\Debug\Point.pdb

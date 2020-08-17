@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\bin\Debug\Summer_dressing.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\bin\Debug\Summer_dressing.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\bin\Debug\Summer_dressing.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\obj\Debug\Summer_dressing.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\obj\Debug\Summer_dressing.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\obj\Debug\Summer_dressing.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Summer_dressing\obj\Debug\Summer_dressing.pdb

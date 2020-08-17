@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\bin\Debug\Hotel.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\bin\Debug\Hotel.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\obj\Debug\Hotel.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Hotel\obj\Debug\Hotel.pdb

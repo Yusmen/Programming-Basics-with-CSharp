@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\bin\Debug\exam.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\bin\Debug\exam.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\bin\Debug\exam.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\obj\Debug\exam.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\obj\Debug\exam.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\exam\obj\Debug\exam.pdb

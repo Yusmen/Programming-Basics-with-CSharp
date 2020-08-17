@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\bin\Debug\Operations between numbers.exe.config
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\bin\Debug\Operations between numbers.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\bin\Debug\Operations between numbers.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\obj\Debug\Operations between numbers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\obj\Debug\Operations between numbers.exe
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\obj\Debug\Operations between numbers.pdb
+C:\Users\usmenzabanov\source\repos\Vlojeni_if\Operations between numbers\obj\Debug\Operations between numbers.csprojAssemblyReference.cache
