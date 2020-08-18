@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Solution3\Balance_account\bin\Debug\Balance_account.exe.config
+C:\Users\usmenzabanov\source\repos\Solution3\Balance_account\bin\Debug\Balance_account.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Balance_account\bin\Debug\Balance_account.pdb
+C:\Users\usmenzabanov\source\repos\Solution3\Balance_account\obj\Debug\Balance_account.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution3\Balance_account\obj\Debug\Balance_account.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Balance_account\obj\Debug\Balance_account.pdb

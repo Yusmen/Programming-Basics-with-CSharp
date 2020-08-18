@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Solution3\Graduation2\bin\Debug\Graduation2.exe.config
+C:\Users\usmenzabanov\source\repos\Solution3\Graduation2\bin\Debug\Graduation2.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Graduation2\bin\Debug\Graduation2.pdb
+C:\Users\usmenzabanov\source\repos\Solution3\Graduation2\obj\Debug\Graduation2.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution3\Graduation2\obj\Debug\Graduation2.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Graduation2\obj\Debug\Graduation2.pdb

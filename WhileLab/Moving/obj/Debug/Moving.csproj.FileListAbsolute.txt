@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Solution3\Moving\bin\Debug\Moving.exe.config
+C:\Users\usmenzabanov\source\repos\Solution3\Moving\bin\Debug\Moving.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Moving\bin\Debug\Moving.pdb
+C:\Users\usmenzabanov\source\repos\Solution3\Moving\obj\Debug\Moving.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution3\Moving\obj\Debug\Moving.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Moving\obj\Debug\Moving.pdb

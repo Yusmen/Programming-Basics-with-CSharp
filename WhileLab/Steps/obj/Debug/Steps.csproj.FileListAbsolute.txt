@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\bin\Debug\Steps.exe.config
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\bin\Debug\Steps.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\bin\Debug\Steps.pdb
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\obj\Debug\Steps.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\obj\Debug\Steps.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\obj\Debug\Steps.exe
+C:\Users\usmenzabanov\source\repos\Solution3\Steps\obj\Debug\Steps.pdb
