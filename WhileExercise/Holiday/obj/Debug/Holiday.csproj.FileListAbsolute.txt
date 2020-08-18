@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\obj\Debug\Holiday.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\obj\Debug\Holiday.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\bin\Debug\Holiday.exe.config
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\bin\Debug\Holiday.exe
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\bin\Debug\Holiday.pdb
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\obj\Debug\Holiday.exe
+C:\Users\usmenzabanov\source\repos\While_upr\Holiday\obj\Debug\Holiday.pdb

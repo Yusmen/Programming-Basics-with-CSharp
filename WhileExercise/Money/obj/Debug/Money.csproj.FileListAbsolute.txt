@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\While_upr\Money\bin\Debug\Money.exe.config
+C:\Users\usmenzabanov\source\repos\While_upr\Money\bin\Debug\Money.exe
+C:\Users\usmenzabanov\source\repos\While_upr\Money\bin\Debug\Money.pdb
+C:\Users\usmenzabanov\source\repos\While_upr\Money\obj\Debug\Money.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\While_upr\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\While_upr\Money\obj\Debug\Money.exe
+C:\Users\usmenzabanov\source\repos\While_upr\Money\obj\Debug\Money.pdb
