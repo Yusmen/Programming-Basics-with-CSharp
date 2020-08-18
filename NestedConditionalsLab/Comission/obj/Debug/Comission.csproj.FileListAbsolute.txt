@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\bin\Debug\Comission.exe.config
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\bin\Debug\Comission.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\bin\Debug\Comission.pdb
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\obj\Debug\Comission.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\obj\Debug\Comission.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\obj\Debug\Comission.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Comission\obj\Debug\Comission.pdb

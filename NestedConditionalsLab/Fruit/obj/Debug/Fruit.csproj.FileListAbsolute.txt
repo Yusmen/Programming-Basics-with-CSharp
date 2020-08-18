@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Solution2\Fruit\obj\Debug\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution2\Fruit\bin\Debug\Fruit.exe.config
+C:\Users\usmenzabanov\source\repos\Solution2\Fruit\bin\Debug\Fruit.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Fruit\bin\Debug\Fruit.pdb
+C:\Users\usmenzabanov\source\repos\Solution2\Fruit\obj\Debug\Fruit.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Fruit\obj\Debug\Fruit.pdb

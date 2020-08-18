@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\bin\Debug\Speeed_info.exe.config
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\bin\Debug\Speeed_info.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\bin\Debug\Speeed_info.pdb
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\obj\Debug\Speeed_info.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\obj\Debug\Speeed_info.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\obj\Debug\Speeed_info.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Speeed_info\obj\Debug\Speeed_info.pdb

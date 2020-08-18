@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Solution2\Day_week\bin\Debug\Day_week.exe.config
+C:\Users\usmenzabanov\source\repos\Solution2\Day_week\bin\Debug\Day_week.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Day_week\bin\Debug\Day_week.pdb
+C:\Users\usmenzabanov\source\repos\Solution2\Day_week\obj\Debug\Day_week.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution2\Day_week\obj\Debug\Day_week.exe
+C:\Users\usmenzabanov\source\repos\Solution2\Day_week\obj\Debug\Day_week.pdb
