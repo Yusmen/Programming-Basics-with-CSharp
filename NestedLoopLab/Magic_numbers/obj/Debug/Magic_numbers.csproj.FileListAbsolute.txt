@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\Solution5\Magic_numbers\bin\Debug\Magic_numbers.exe.config
+C:\Users\usmenzabanov\source\repos\Solution5\Magic_numbers\bin\Debug\Magic_numbers.exe
+C:\Users\usmenzabanov\source\repos\Solution5\Magic_numbers\bin\Debug\Magic_numbers.pdb
+C:\Users\usmenzabanov\source\repos\Solution5\Magic_numbers\obj\Debug\Magic_numbers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution5\Magic_numbers\obj\Debug\Magic_numbers.exe
+C:\Users\usmenzabanov\source\repos\Solution5\Magic_numbers\obj\Debug\Magic_numbers.pdb

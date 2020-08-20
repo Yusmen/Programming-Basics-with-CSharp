@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Solution5\Building\bin\Debug\Building.exe.config
+C:\Users\usmenzabanov\source\repos\Solution5\Building\bin\Debug\Building.exe
+C:\Users\usmenzabanov\source\repos\Solution5\Building\bin\Debug\Building.pdb
+C:\Users\usmenzabanov\source\repos\Solution5\Building\obj\Debug\Building.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\Solution5\Building\obj\Debug\Building.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution5\Building\obj\Debug\Building.exe
+C:\Users\usmenzabanov\source\repos\Solution5\Building\obj\Debug\Building.pdb

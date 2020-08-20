@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\bin\Debug\Name_war.exe.config
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\bin\Debug\Name_war.exe
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\bin\Debug\Name_war.pdb
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\obj\Debug\Name_war.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\obj\Debug\Name_war.exe
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\obj\Debug\Name_war.pdb
+C:\Users\usmenzabanov\source\repos\Solution5\Name_war\obj\Debug\Name_war.csprojAssemblyReference.cache
