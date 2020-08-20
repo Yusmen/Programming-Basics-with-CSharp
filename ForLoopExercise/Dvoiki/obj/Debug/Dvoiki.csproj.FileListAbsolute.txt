@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\bin\Debug\Dvoiki.exe.config
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\bin\Debug\Dvoiki.exe
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\bin\Debug\Dvoiki.pdb
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\obj\Debug\Dvoiki.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\obj\Debug\Dvoiki.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\obj\Debug\Dvoiki.exe
+C:\Users\usmenzabanov\source\repos\For_upr\Dvoiki\obj\Debug\Dvoiki.pdb

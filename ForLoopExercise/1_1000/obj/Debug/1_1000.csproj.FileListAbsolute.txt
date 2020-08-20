@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\bin\Debug\1_1000.exe.config
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\bin\Debug\1_1000.exe
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\bin\Debug\1_1000.pdb
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\obj\Debug\1_1000.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\obj\Debug\1_1000.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\obj\Debug\1_1000.exe
+C:\Users\usmenzabanov\source\repos\For_upr\1_1000\obj\Debug\1_1000.pdb

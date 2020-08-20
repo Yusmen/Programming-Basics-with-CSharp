@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\For_upr\Equal_element\bin\Debug\Equal_element.exe.config
+C:\Users\usmenzabanov\source\repos\For_upr\Equal_element\bin\Debug\Equal_element.exe
+C:\Users\usmenzabanov\source\repos\For_upr\Equal_element\bin\Debug\Equal_element.pdb
+C:\Users\usmenzabanov\source\repos\For_upr\Equal_element\obj\Debug\Equal_element.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_upr\Equal_element\obj\Debug\Equal_element.exe
+C:\Users\usmenzabanov\source\repos\For_upr\Equal_element\obj\Debug\Equal_element.pdb

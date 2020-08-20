@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\For_upr\Salary\bin\Debug\Salary.exe.config
+C:\Users\usmenzabanov\source\repos\For_upr\Salary\bin\Debug\Salary.exe
+C:\Users\usmenzabanov\source\repos\For_upr\Salary\bin\Debug\Salary.pdb
+C:\Users\usmenzabanov\source\repos\For_upr\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_upr\Salary\obj\Debug\Salary.exe
+C:\Users\usmenzabanov\source\repos\For_upr\Salary\obj\Debug\Salary.pdb
