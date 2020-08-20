@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Radiani\bin\Debug\Radiani.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Radiani\bin\Debug\Radiani.exe
+c:\users\usmenzabanov\source\repos\Solution1\Radiani\bin\Debug\Radiani.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Radiani\obj\Debug\Radiani.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Radiani\obj\Debug\Radiani.exe
+c:\users\usmenzabanov\source\repos\Solution1\Radiani\obj\Debug\Radiani.pdb

@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Greeting\bin\Debug\Greeting.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Greeting\bin\Debug\Greeting.exe
+c:\users\usmenzabanov\source\repos\Solution1\Greeting\bin\Debug\Greeting.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Greeting\obj\Debug\Greeting.exe
+c:\users\usmenzabanov\source\repos\Solution1\Greeting\obj\Debug\Greeting.pdb

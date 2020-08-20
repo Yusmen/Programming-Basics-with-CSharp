@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Farenhait\bin\Debug\Farenhait.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Farenhait\bin\Debug\Farenhait.exe
+c:\users\usmenzabanov\source\repos\Solution1\Farenhait\bin\Debug\Farenhait.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Farenhait\obj\Debug\Farenhait.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Farenhait\obj\Debug\Farenhait.exe
+c:\users\usmenzabanov\source\repos\Solution1\Farenhait\obj\Debug\Farenhait.pdb

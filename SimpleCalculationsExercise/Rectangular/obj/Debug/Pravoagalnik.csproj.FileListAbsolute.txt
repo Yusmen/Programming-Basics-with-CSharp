@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Pravoagalnik\bin\Debug\Pravoagalnik.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Pravoagalnik\bin\Debug\Pravoagalnik.exe
+c:\users\usmenzabanov\source\repos\Solution1\Pravoagalnik\bin\Debug\Pravoagalnik.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Pravoagalnik\obj\Debug\Pravoagalnik.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Pravoagalnik\obj\Debug\Pravoagalnik.exe
+c:\users\usmenzabanov\source\repos\Solution1\Pravoagalnik\obj\Debug\Pravoagalnik.pdb

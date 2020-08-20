@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Trapec\bin\Debug\Trapec.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Trapec\bin\Debug\Trapec.exe
+c:\users\usmenzabanov\source\repos\Solution1\Trapec\bin\Debug\Trapec.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Trapec\obj\Debug\Trapec.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Trapec\obj\Debug\Trapec.exe
+c:\users\usmenzabanov\source\repos\Solution1\Trapec\obj\Debug\Trapec.pdb

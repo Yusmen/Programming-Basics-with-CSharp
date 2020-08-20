@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Birthday\bin\Debug\Birthday.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Birthday\bin\Debug\Birthday.exe
+c:\users\usmenzabanov\source\repos\Solution1\Birthday\bin\Debug\Birthday.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Birthday\obj\Debug\Birthday.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Birthday\obj\Debug\Birthday.exe
+c:\users\usmenzabanov\source\repos\Solution1\Birthday\obj\Debug\Birthday.pdb

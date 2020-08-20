@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Maraba jin gibi\obj\Debug\Maraba jin gibi.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Maraba jin gibi\bin\Debug\Maraba.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Maraba jin gibi\bin\Debug\Maraba.exe
+c:\users\usmenzabanov\source\repos\Solution1\Maraba jin gibi\bin\Debug\Maraba.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Maraba jin gibi\obj\Debug\Maraba.exe
+c:\users\usmenzabanov\source\repos\Solution1\Maraba jin gibi\obj\Debug\Maraba.pdb

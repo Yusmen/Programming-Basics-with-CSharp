@@ -1,0 +1,6 @@
+c:\users\usmenzabanov\source\repos\Solution1\Perimetar\bin\Debug\Perimetar.exe.config
+c:\users\usmenzabanov\source\repos\Solution1\Perimetar\bin\Debug\Perimetar.exe
+c:\users\usmenzabanov\source\repos\Solution1\Perimetar\bin\Debug\Perimetar.pdb
+c:\users\usmenzabanov\source\repos\Solution1\Perimetar\obj\Debug\Perimetar.csproj.CoreCompileInputs.cache
+c:\users\usmenzabanov\source\repos\Solution1\Perimetar\obj\Debug\Perimetar.exe
+c:\users\usmenzabanov\source\repos\Solution1\Perimetar\obj\Debug\Perimetar.pdb
