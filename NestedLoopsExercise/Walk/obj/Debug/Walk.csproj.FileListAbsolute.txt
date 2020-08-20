@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\obj\Debug\Walk.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\obj\Debug\Walk.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\bin\Debug\Walk.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\bin\Debug\Walk.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\bin\Debug\Walk.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\obj\Debug\Walk.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Walk\obj\Debug\Walk.pdb

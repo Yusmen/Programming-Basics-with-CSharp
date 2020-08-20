@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\bin\Debug\Matric.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\bin\Debug\Matric.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\bin\Debug\Matric.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\obj\Debug\Matric.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\obj\Debug\Matric.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\obj\Debug\Matric.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Matric\obj\Debug\Matric.pdb

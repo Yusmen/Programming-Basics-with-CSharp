@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\bin\Debug\Changes.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\bin\Debug\Changes.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\bin\Debug\Changes.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\obj\Debug\Changes.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\obj\Debug\Changes.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\obj\Debug\Changes.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Changes\obj\Debug\Changes.pdb

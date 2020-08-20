@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\bin\Debug\Piramyd.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\bin\Debug\Piramyd.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\bin\Debug\Piramyd.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\obj\Debug\Piramyd.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\obj\Debug\Piramyd.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\obj\Debug\Piramyd.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Piramyd\obj\Debug\Piramyd.pdb

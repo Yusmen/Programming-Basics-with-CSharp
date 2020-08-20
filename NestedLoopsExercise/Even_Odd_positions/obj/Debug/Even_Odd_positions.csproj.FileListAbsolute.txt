@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\bin\Debug\Even_Odd_positions.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\bin\Debug\Even_Odd_positions.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\bin\Debug\Even_Odd_positions.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\obj\Debug\Even_Odd_positions.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\obj\Debug\Even_Odd_positions.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\obj\Debug\Even_Odd_positions.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Even_Odd_positions\obj\Debug\Even_Odd_positions.pdb

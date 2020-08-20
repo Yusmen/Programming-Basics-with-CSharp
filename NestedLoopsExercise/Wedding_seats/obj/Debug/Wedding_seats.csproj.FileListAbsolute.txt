@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\bin\Debug\Wedding_seats.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\bin\Debug\Wedding_seats.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\bin\Debug\Wedding_seats.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\obj\Debug\Wedding_seats.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\obj\Debug\Wedding_seats.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\obj\Debug\Wedding_seats.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Wedding_seats\obj\Debug\Wedding_seats.pdb

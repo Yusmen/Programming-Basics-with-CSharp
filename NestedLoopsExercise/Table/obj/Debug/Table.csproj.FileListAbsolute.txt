@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Table\bin\Debug\Table.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Table\bin\Debug\Table.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Table\bin\Debug\Table.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Table\obj\Debug\Table.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Table\obj\Debug\Table.pdb

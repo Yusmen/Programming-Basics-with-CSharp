@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\bin\Debug\Train the trainers.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\bin\Debug\Train the trainers.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\bin\Debug\Train the trainers.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\obj\Debug\Train the trainers.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\obj\Debug\Train the trainers.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\obj\Debug\Train the trainers.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Train the trainers\obj\Debug\Train the trainers.pdb

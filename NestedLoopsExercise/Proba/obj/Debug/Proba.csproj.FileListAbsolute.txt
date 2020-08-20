@@ -1,0 +1,6 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Proba\bin\Debug\Proba.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Proba\bin\Debug\Proba.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Proba\bin\Debug\Proba.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Proba\obj\Debug\Proba.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Proba\obj\Debug\Proba.pdb

@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\bin\Debug\Fan_shop.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\bin\Debug\Fan_shop.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\bin\Debug\Fan_shop.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\obj\Debug\Fan_shop.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\obj\Debug\Fan_shop.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\obj\Debug\Fan_shop.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Fan_shop\obj\Debug\Fan_shop.pdb

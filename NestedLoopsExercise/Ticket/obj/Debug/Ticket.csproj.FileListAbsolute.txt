@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\bin\Debug\Ticket.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\bin\Debug\Ticket.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\bin\Debug\Ticket.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\obj\Debug\Ticket.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\obj\Debug\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\obj\Debug\Ticket.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Ticket\obj\Debug\Ticket.pdb

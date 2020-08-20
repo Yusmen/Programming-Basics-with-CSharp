@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\bin\Debug\Challenge_wedding.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\bin\Debug\Challenge_wedding.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\bin\Debug\Challenge_wedding.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\obj\Debug\Challenge_wedding.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\obj\Debug\Challenge_wedding.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\obj\Debug\Challenge_wedding.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Challenge_wedding\obj\Debug\Challenge_wedding.pdb

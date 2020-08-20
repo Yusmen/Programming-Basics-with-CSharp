@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\bin\Debug\Left_right.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\bin\Debug\Left_right.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\bin\Debug\Left_right.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\obj\Debug\Left_right.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\obj\Debug\Left_right.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\obj\Debug\Left_right.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Left_right\obj\Debug\Left_right.pdb

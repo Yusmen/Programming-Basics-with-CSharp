@@ -1,0 +1,7 @@
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\bin\Debug\Prost_neprosti.exe.config
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\bin\Debug\Prost_neprosti.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\bin\Debug\Prost_neprosti.pdb
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\obj\Debug\Prost_neprosti.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\obj\Debug\Prost_neprosti.csproj.CoreCompileInputs.cache
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\obj\Debug\Prost_neprosti.exe
+C:\Users\usmenzabanov\source\repos\For_vl_upr\Prost_neprosti\obj\Debug\Prost_neprosti.pdb
